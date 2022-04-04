@@ -8,7 +8,7 @@
 
 ## Some Stats About Me
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninjaengineers&theme=dark)](https://github.com/ninjaengineers)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaengineers&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/ninjanengineers)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaengineers&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)(https://github.com/ninjanengineers)
 
 ## How To Reach Me?
 - Twitter
